@@ -1,0 +1,23 @@
+.avatar{
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  padding: 1rem;
+}
+
+.instructionBox{
+  text-align: center;
+  margin-top: 1rem;
+}
+
+.instruction{
+  font-size: .8rem;
+  color: #999;
+}
+
+.account{
+  background-color: #999;
+  margin-left: .5rem;
+  margin-right: .5rem;
+  margin-top: 1rem;
+}
